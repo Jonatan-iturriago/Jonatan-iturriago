@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jonatan Iturriago</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
+<p> I am a Front-end developer with experience in technologies such as JavaScript, React.js, HTML and CSS, as well as Node.js, Express and PostgreSQL for back-end development. I have skills in Git, GitFlow and Scrum methodology for project management. I focus on creating efficient and attractive user interfaces to improve the user experience and I am always looking to learn new technologies and trends to improve my work.</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonatan-iturriago&label=Profile%20views&color=0e75b6&style=flat" alt="jonatan-iturriago" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jonatan-iturriago" alt="jonatan-iturriago" /></a> </p>
