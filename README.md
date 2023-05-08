@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jonatan-iturriago" alt="jonatan-iturriago" /></a> </p>
 
-- 🌱 I’m currently learning **Graphql and react native**
+- 🌱 I’m currently learning *** Graphql and Rreact native**
 
 - 📫 How to reach me **jonataniturriagovizcaino@gmail.com**
 
