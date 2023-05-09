@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonatan Iturriago</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
-<p> I am a Front-end developer with experience in technologies such as JavaScript, React.js, HTML and CSS, as well as Node.js, Express and PostgreSQL for back-end development. I have skills in Git, GitFlow and Scrum methodology for project management. I focus on creating efficient and attractive user interfaces to improve the user experience and I am always looking to learn new technologies and trends to improve my work.</p>
+<p> I am a Full Stack developer with specialized skills in user interface development using technologies such as JavaScript, React.js, HTML and CSS. I also have experience in Back-end development with Node.js, Express and PostgreSQL. I focus on creating efficient and attractive user interfaces to enhance the user experience. In addition, I have skills in handling tools such as Git, GitFlow and Scrum methodology for project management. I am always looking to learn new technologies and trends to improve my work and offer more complete solutions to problems.</p>
 - 🌱 I’m currently learning   Graphql and Rreact native
 - 📫 How to reach me  jonataniturriagovizcaino@gmail.com
 <h3 align="left">Connect with me:</h3>
